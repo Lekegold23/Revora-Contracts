@@ -410,6 +410,8 @@ mod test_reg_limit_delta;
 #[cfg(test)]
 mod test_accrual_reconciliation_prop;
 #[cfg(test)]
+mod test_reconcile_audit_summary;
+#[cfg(test)]
 mod test_tax_year;
 #[cfg(test)]
 mod test_transfer_cooldown;
